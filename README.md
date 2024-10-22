@@ -3,9 +3,9 @@ My examples of the webAI Summit at Google 2024
 
 
 <li><a href="[.](https://rsvp.withgoogle.com/events/web-ai-summit-2024/sessions)">WebAI Sessions</a>
-<li><a href=".">..</a>
-<li><a href=".">..</a>
-<li><a href=".">..</a>
+<li><a >Jason Mayes Web AI Lead Google </a> Welcome to Web AI Summit 2024
+<li><a href=".">Jim Bankoski VP Engineering, Chrome Google</a> Google Chrome VP welcome
+<li><a href=".">Joshua Lochner Open Source ML Engineer (Transformers.js) Hugging Face</a>Transformers.js: State-of-the-art Machine Learning for the Web
 <li><a href=".">..</a>
 <li><a href=".">..</a>
 <li><a href=".">..</a>
