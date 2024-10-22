@@ -2,7 +2,7 @@
 My examples of the webAI Summit at Google 2024
 
 
-<li><a href=".">..</a>
+<li><a href="[.](https://rsvp.withgoogle.com/events/web-ai-summit-2024/sessions)">WebAI Sessions</a>
 <li><a href=".">..</a>
 <li><a href=".">..</a>
 <li><a href=".">..</a>
