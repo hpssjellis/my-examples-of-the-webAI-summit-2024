@@ -11,10 +11,10 @@ My examples of the webAI Summit at Google 2024
     
 <li><a >Jason Mayes Web AI Lead Google </a> Welcome to Web AI Summit 2024  <a href="https://www.youtube.com/watch?v=tF70o1Q8VkM&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt&index=1&pp=iAQB">video</a>
 <li><a > Jim Bankoski VP Engineering Chrome </a> Google Chrome VP welcome
-<li><a > Joshua Lochner Open Source ML Engineer Hugging Face</a> Transformers.js: State-of-the-art Machine Learning for the Web </li>
-<li><a > ..</a> The Web Neural Network (WebNN) API: Where we are and What's Next
-<li><a > ..</a> Web AI on AI PC
-<li><a > ..</a> ml5.js - Friendly Machine Learning for the Web
+<li><a > Joshua Lochner Open Source ML Engineer Hugging Face</a> Transformers.js: State-of-the-art Machine Learning for the Web <a href="https://www.youtube.com/watch?v=n18Lrbo8VU8&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt&index=2&pp=iAQB">video</a>
+<li><a > ..</a> The Web Neural Network (WebNN) API: Where we are and What's Next <a href="https://www.youtube.com/watch?v=FoYBWzXCsmM&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt&index=3&pp=iAQB">video</a>
+<li><a > ..</a> Web AI on AI PC  <a href="https://www.youtube.com/watch?v=5BjB7AIed3A&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt&index=4&pp=iAQB">video</a>
+<li><a > ..</a> ml5.js - Friendly Machine Learning for the Web   <a href="https://www.youtube.com/watch?v=LHhSxtgyuUw&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt&index=5&pp=iAQB">video</a>
 <li><a > ..</a> WebLLM: A High-Performance In-Browser LLM Inference Engine
 <li><a > ..</a> State Isn't All You Need, But It Helps: Building Better LLM Apps in the Browser****
 <li><a > ..</a> Visual Blocks: Visual Prototyping of AI Pipelines
