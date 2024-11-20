@@ -4,9 +4,12 @@ My examples of the webAI Summit at Google 2024
 
 <li><a href="https://rsvp.withgoogle.com/events/web-ai-summit-2024/sessions">WebAI Sessions</a>
 
+
+<a href="https://www.youtube.com/watch?v=tF70o1Q8VkM&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt">The Playlist of videos </a>
+
 <ol>
     
-<li><a >Jason Mayes Web AI Lead Google </a> Welcome to Web AI Summit 2024
+<li><a >Jason Mayes Web AI Lead Google </a> Welcome to Web AI Summit 2024  <a href="https://www.youtube.com/watch?v=tF70o1Q8VkM&list=PLNYkxOF6rcIAEVKJ98bDkQRkwvO4grhnt&index=1&pp=iAQB">video</a>
 <li><a > Jim Bankoski VP Engineering Chrome </a> Google Chrome VP welcome
 <li><a > Joshua Lochner Open Source ML Engineer Hugging Face</a> Transformers.js: State-of-the-art Machine Learning for the Web </li>
 <li><a > ..</a> The Web Neural Network (WebNN) API: Where we are and What's Next
