@@ -1,6 +1,10 @@
 # my-examples-of-the-webAI-summit-2024
 My examples of the webAI Summit at Google 2024
 
+# <a href="https://hpssjellis.github.io/my-examples-of-webAI/">My WebAI examples Demo page</a>
+
+
+
 
 <li><a href="https://rsvp.withgoogle.com/events/web-ai-summit-2024/sessions">WebAI Sessions</a>
 
